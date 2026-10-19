@@ -21,6 +21,7 @@ Inicializar el proyecto Desde la terminal, entrar a la carpeta de la aplicación
 npm.cmd init -y
 
 Instalar las dependencias npm.cmd install express express-upload into-stream dotenv azure-storage Estas dependencias permiten preparar el servidor web, gestionar variables de entorno y trabajar con operaciones relacionadas con archivos y almacenamiento.
+
 ✅ Lista de tareas:
 
 Crear el grupo de recursos en Azure. Configurar los recursos necesarios para la aplicación web. Crear la cuenta de Azure Storage. Crear el contenedor de almacenamiento. Instalar Node.js y Visual Studio Code. Inicializar el proyecto con npm. Instalar las dependencias. Configurar la integración con Azure Blob Storage. Configurar Twilio según los requisitos del proyecto. Probar el funcionamiento de la aplicación.
