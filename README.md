@@ -3,7 +3,9 @@ Project-azure-storage
 
 Proyecto de desarrollo e integración de servicios en la nube utilizando Microsoft Azure, Twilio y Node.js. Incluye la configuración de recursos en Azure, la creación de un contenedor para almacenar archivos y el desarrollo de una aplicación web con Node.js.
 
-🛠️ Tecnologías y herramientas: Microsoft Azure: infraestructura y servicios en la nube. Azure Blob Storage: almacenamiento de archivos. Twilio: integración de servicios de comunicación. Node.js: entorno de ejecución de JavaScript. Visual Studio Code: editor de código. npm: administrador de paquetes de Node.js. Azure PowerShell y Azure CLI: herramientas para administrar recursos de Azure.
+🛠️ Tecnologías y herramientas: 
+
+Microsoft Azure: infraestructura y servicios en la nube. Azure Blob Storage: almacenamiento de archivos. Twilio: integración de servicios de comunicación. Node.js: entorno de ejecución de JavaScript. Visual Studio Code: editor de código. npm: administrador de paquetes de Node.js. Azure PowerShell y Azure CLI: herramientas para administrar recursos de Azure.
 
 ☁️ Configuración de Azure:
 
